@@ -1,1 +1,1 @@
-console.log("Ciao, Mondo!");
+console.log("Ciao, Mondo and Hallo, Welt!");
